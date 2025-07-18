@@ -8,6 +8,7 @@ public class User {
     private String newest;
     private String newest2;
     private String newest3;
+    private String newest4;
 
     private String conflictId;
 
