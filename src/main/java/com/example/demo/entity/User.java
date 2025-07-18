@@ -7,6 +7,7 @@ public class User {
     private String phone;
     private String newest;
     private String newest2;
+    private String newest3;
 
     private String conflictId;
 
