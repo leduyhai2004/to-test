@@ -6,6 +6,7 @@ public class User {
     private String email;
     private String phone;
     private String newest;
+    private String newest2;
 
     private String conflictId;
 
