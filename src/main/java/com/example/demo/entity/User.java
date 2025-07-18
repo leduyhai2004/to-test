@@ -9,6 +9,7 @@ public class User {
     private String newest2;
     private String newest3;
     private String newest4;
+    private String newest5;
 
     private String conflictId;
 
